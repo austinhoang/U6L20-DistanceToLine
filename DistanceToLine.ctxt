@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=A\ B\ C\ a\ b
+comment0.target=double\ getDist(double,\ double,\ double,\ double,\ double)
+comment0.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ A\ \ \ The\ A\ value\ of\ equation\ of\ the\ line\ Ax\ +\ By\ +\ C\ \=\ 0\n\ @param\ \ B\ \ \ The\ B\ value\ of\ equation\ of\ the\ line\ Ax\ +\ By\ +\ C\ \=\ 0\n\ @param\ \ C\ \ \ The\ C\ value\ of\ equation\ of\ the\ line\ Ax\ +\ By\ +\ C\ \=\ 0\n\ @param\ \ a\ \ \ The\ x\ coordinate\ of\ the\ point\n\ @param\ \ a\ \ \ The\ y\ coordinate\ of\ the\ point\n\ @return\ \ \ \ \ The\ shortest\ distance\ between\ the\ point\ (a,b)\ and\ the\ line\ Ax\ +\ By\ +\ C\ \=\ 0\n
+numComments=1
