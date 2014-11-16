@@ -63,6 +63,18 @@ public class DistanceToLineTest
     {
         assertEquals(55.6255, DistanceToLine.getDist(-.2, -.7, 34.6, -9.88, -5.6), 0.1);
     }
+
+    @Test
+    public void testGetDist5()
+    {
+        assertEquals(1.3333, DistanceToLine.getDist(0, 3, 2, 4, -2), 0.1);
+    }
+
+    @Test
+    public void testGetDist6()
+    {
+        assertEquals(2.5, DistanceToLine.getDist(4, 0, -2, 3, -2), 0.1);
+    }
 }
 
 
