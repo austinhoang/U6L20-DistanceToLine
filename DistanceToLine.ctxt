@@ -1,5 +1,5 @@
 #BlueJ class context
 comment0.params=A\ B\ C\ a\ b
 comment0.target=double\ getDist(double,\ double,\ double,\ double,\ double)
-comment0.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\r\n
+comment0.text=\r\n\ executes\ distance\ formula\ based\ on\ double\ values\ in\ test\ \r\n\ @param\ A,\ B,\ C,\ a,\ b\r\n\ A,\ B,\ and\ C\ represent\ Ax+By+C\=0\ equation,\ a\ and\ b\ represent\ (x,\ y)\ coordinates\ respectively\r\n\ @\ return\ the\ distance\ based\ on\ values\ given\ and\ distance\ formula\r\n
 numComments=1
